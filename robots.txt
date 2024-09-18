@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://feblesea.github.io/sitemap.html.gz
+Sitemap: https://feblesea.github.io/app/sitemap.html.gz
+Sitemap: https://feblesea.github.io/assets/sitemap.html.gz
+Sitemap: https://feblesea.github.io/css/sitemap.html.gz
+Sitemap: https://feblesea.github.io/includes/sitemap.html.gz
+Sitemap: https://feblesea.github.io/item/sitemap.html.gz
+Sitemap: https://feblesea.github.io/src/sitemap.html.gz
